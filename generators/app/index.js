@@ -14,7 +14,6 @@ module.exports = class extends Generator {
         const templates = [
             '.gitignore',
             'babel.config.js',
-            'package-lock.json',
             'package.json',
             'public/favicon.ico',
             'public/index.html',
